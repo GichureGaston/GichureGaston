@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @GichureGaston
 - 👀 I’m interested in the broad integration of technology into daily life and memes
 - 🌱 I’m currently learning Dart, Flutter, Django, Python and Electronics.
-- 📫 How to reach me ...
+
 - ⚡ Fun fact: Water might not be wet.
 
 <!---
