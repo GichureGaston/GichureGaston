@@ -7,6 +7,7 @@ I'm fascinated by the ever-evolving dance between technology and our daily routi
 *   Firebase & Supabase (Powering applications with modern BaaS)
 *   Electronics & Hardware Exploration (Bridging the physical and digital, one component at a time)
 *   Ethical Hacking (Learning to defend by understanding the offense)
+*   Cheese Making
 
 ⚡ **Random Pondering:** Is water *really* wet? Let's discuss!
 
