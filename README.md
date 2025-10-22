@@ -60,7 +60,7 @@ I'm fascinated by the ever-evolving dance between technology and our daily routi
 
 <p>
   <a href="mailto:gichuregaston@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/gaston-gichure-4a12b3266/)](https://www.linkedin.com/in/gaston-gichure-4a12b3266/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[[https://www.linkedin.com/in/gaston-gichure-4a12b3266/)](https://www.linkedin.com/in/gaston-gichure-4a12b3266/)](https://ke.linkedin.com/in/gaston-gichure-4a12b3266)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
