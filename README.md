@@ -25,7 +25,7 @@ I'm fascinated by the ever-evolving dance between technology and our daily routi
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,blender,vscode,linux,docker,supabase,androidstudio,intellij,postman" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,blender,linux,supabase,androidstudio,intellij,postman" />
   </a>
 </p>
 
