@@ -1,4 +1,4 @@
-<h2 align="center">Hola I am Gaston 👋</h2>
+<h2 align="center">Hola I am Gaston </h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&width=500&lines=Flutter+Developer;Dart+Enthusiast;3D+Artist+%26+Blender;Firebase+%26+Supabase;Mobile+App+Developer;Creative+Technologist" alt="Typing SVG" />
 </p>
@@ -7,21 +7,21 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 
 I'm fascinated by the ever-evolving dance between technology and our daily routines. I'm on a mission to build beautiful, scalable applications that make life a little more interesting, efficient, and secure.
 
-- 🔭 I'm currently building stunning mobile applications with **Flutter & Dart**
-- 🎨 Creating amazing 3D experiences with **Blender**
-- 🔥 Architecting powerful backends with **Firebase & Supabase**
-- 🌱 Always exploring new technologies and best practices
-- 💬 Ask me about **Mobile Development, Backend Architecture, and 3D Design**
-- 📫 How to reach me: Email | LinkedIn
-- ⚡ Fun fact: I believe in building tech that's not just functional, but beautiful
+-  I'm currently building stunning mobile applications with **Flutter & Dart**
+-  Creating amazing 3D experiences with **Blender**
+-  Architecting powerful backends with **Firebase & Supabase**
+-  Always exploring new technologies and best practices
+-  Ask me about **Mobile Development, Backend Architecture, and 3D Design**
+-  How to reach me: Email | LinkedIn
+-  Fun fact: I believe in building tech that's not just functional, but beautiful
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p>
   <a href="https://skillicons.dev">
@@ -43,7 +43,7 @@ I'm fascinated by the ever-evolving dance between technology and our daily routi
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -56,7 +56,7 @@ I'm fascinated by the ever-evolving dance between technology and our daily routi
 
 ---
 
-### 🔗 Connect with Me
+###  Connect with Me
 
 <p>
   <a href="mailto:gichuregaston@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -66,5 +66,5 @@ I'm fascinated by the ever-evolving dance between technology and our daily routi
 ---
 
 <p align="center">
-  <i>Building the future, one line of code at a time ✨</i>
+  <i>Building the future, one line of code at a time </i>
 </p>
