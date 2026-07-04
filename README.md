@@ -1,7 +1,5 @@
 <h2 align="center">Hola I am Gaston </h2>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&width=500&lines=Flutter+Developer;Dart+Enthusiast;3D+Artist+%26+Blender;Firebase+%26+Supabase;Mobile+App+Developer;Creative+Technologist" alt="Typing SVG" />
-</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GichureGaston&label=Profile%20views&color=0e75b6&style=flat)
 
